@@ -1,0 +1,48 @@
+h2{
+    color: blue;
+    font-size: medium;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#pic{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 30px;
+}
+
+.pic1{
+    height:200px;
+    width: 300px;   
+}
+
+img{
+    height: 200px;
+    width: 300px;
+}
+
+.game{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    
+}
+
+.jave{
+    padding-top: 300px;
+    display: flex;
+    flex-direction: column;
+}
+
+.btn1{
+    font-size: medium;
+    border-radius: 5px;
+    padding: 5px;
+    border-color: #0147ab;
+
+}
+
+a:hover{
+    color: brown;
+     
+}
